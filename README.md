@@ -23,5 +23,7 @@ The network architecture of Deep Neural Network was n,6000,2000,1000,500,100,20,
 The network architecture was as follows: 
 <br />
 ![repo25](https://user-images.githubusercontent.com/64823050/131244511-40ef6345-292a-403f-a864-90b8ba413173.png)
+<br />
 This was implemented using Pytorch.
+<br />
 ## Result 

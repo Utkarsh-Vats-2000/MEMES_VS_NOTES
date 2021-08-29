@@ -17,9 +17,11 @@ Dataset was generated collectively by students, by collecting memes and notes im
 ## Approach
 ### Without CNN
 The network architecture of Deep Neural Network was n,6000,2000,1000,500,100,20,1 with learning rate as 0.01, 5 epochs and a batch size of 100. All of this was implemented purely on Numpy.
+<br />
 ![repo24](https://user-images.githubusercontent.com/64823050/131244446-737e5074-0164-499d-8c82-f939f2efa382.png)
 ### With CNN
 The network architecture was as follows: 
+<br />
 ![repo25](https://user-images.githubusercontent.com/64823050/131244511-40ef6345-292a-403f-a864-90b8ba413173.png)
 This was implemented using Pytorch.
 ## Result 

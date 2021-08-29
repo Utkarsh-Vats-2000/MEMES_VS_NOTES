@@ -27,3 +27,17 @@ The network architecture was as follows:
 This was implemented using Pytorch.
 <br />
 ## Result 
+### Without CNN
+Graph between Losses and Epochs is plotted below:
+<br />
+![repo26](https://user-images.githubusercontent.com/64823050/131244842-12efc9c8-122e-4232-8db2-76d053cda50c.png)
+- Train Accuracy: 99.1%
+- Validation Accuracy: 94.3%
+- Test Accuracy: 93.3%
+### With CNN
+Graph between Losses and Epochs is plotted below:
+<br />
+![repo27](https://user-images.githubusercontent.com/64823050/131244877-d6fe672d-958e-4058-94fc-4f1a00f3b198.png)
+- Train Accuracy: 97.8%
+- Validation Accuracy: 95.0%
+- Test Accuracy: 93.6%
